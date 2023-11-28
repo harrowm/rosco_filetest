@@ -1,0 +1,127 @@
+                                                                                                   
+Dir: /                                 <Mem 1024K  Uptime 14:04>  Page 1/1                         
+[ 19K] A - test.bin                     [ 31K] C - roscode1.bin                                    
+[ 20K] B - updateflash.bin                                                                         
+                                                                                                   
+A-C to run, SPACE to reload, RETURN for prompt:A                                                   
+Loading "/test.bin"....                                                                            
+Loaded 19908 bytes in 0.58 sec.; CRC-32=0x8BDC8B62; Starting...                                    
+                                                                                                   
+Init SD Card ok, creating test data set                                                            
+Running test for file size 8192 and 100 times                                                      
+crc32 of dataset is b6675307                                                                       
+/rosco000: time: 84661 write read remove ok                                                        
+/rosco001: time: 84869 write read remove ok                                                        
+/rosco002: time: 85064 write read remove ok                                                        
+/rosco003: time: 85258 write read remove ok                                                        
+/rosco004: time: 85464 write read remove ok                                                        
+/rosco005: time: 85659 write read remove ok                                                        
+/rosco006: time: 85854 write read remove ok                                                        
+/rosco007: time: 86048 write read remove ok                                                        
+/rosco008: time: 86254 write read remove ok                                                        
+/rosco009: time: 86449 write read remove ok                                                        
+/rosco010: time: 86643 write read remove ok                                                        
+/rosco011: time: 86838 write read remove ok                                                        
+/rosco012: time: 87044 write read remove ok                                                        
+/rosco013: time: 87238 write read remove ok                                                        
+/rosco014: time: 87433 write read remove ok                                                        
+/rosco015: time: 87628 write read remove ok                                                        
+/rosco016: time: 87833 write read remove ok                                                        
+/rosco017: time: 88028 write read remove ok                                                        
+/rosco018: time: 88223 write read remove ok                                                        
+/rosco019: time: 88418 write read remove ok                                                        
+/rosco020: time: 88624 write read remove ok                                                        
+/rosco021: time: 88818 write read remove ok                                                        
+/rosco022: time: 89013 write read remove ok                                                        
+/rosco023: time: 89207 write read remove ok                                                        
+/rosco024: time: 89413 write read remove ok                                                        
+/rosco025: time: 89608 write read remove ok                                                        
+/rosco026: time: 89803 write read remove ok                                                        
+/rosco027: time: 89997 write read remove ok                                                        
+/rosco028: time: 90203 write read remove ok                                                        
+/rosco029: time: 90398 write read remove ok                                                        
+/rosco030: time: 90593 write read remove ok                                                        
+/rosco031: time: 90787 write read remove ok                                                        
+/rosco032: time: 90993 write read remove ok                                                        
+/rosco033: time: 91188 write read remove ok                                                        
+/rosco034: time: 91259 write read remove ok                                                        
+/rosco035: time: 91453 write read remove ok                                                        
+/rosco036: time: 91646 write read Failed to read a complete dataset '/rosco036'                    
+/rosco037: time: 91651 write read Failed to read a complete dataset '/rosco037'                    
+/rosco038: time: 91675 write read Failed to read a complete dataset '/rosco038'                    
+/rosco039: time: 91745 write read remove ok                                                        
+/rosco040: time: 91837 write read remove ok                                                        
+/rosco041: time: 92043 write read remove ok                                                        
+/rosco042: time: 92237 write read remove ok                                                        
+/rosco043: time: 92431 write read remove ok                                                        
+/rosco044: time: 92625 write read remove ok                                                        
+/rosco045: time: 92831 write read remove ok                                                        
+/rosco046: time: 93025 write read remove ok                                                        
+/rosco047: time: 93220 write read remove ok                                                        
+/rosco048: time: 93414 write read remove ok                                                        
+/rosco049: time: 93620 write read remove ok                                                        
+/rosco050: time: 93814 write read remove ok                                                        
+/rosco051: time: 94008 write read remove ok                                                        
+/rosco052: time: 94203 write read remove ok                                                        
+/rosco053: time: 94408 write read remove ok                                                        
+/rosco054: time: 94603 write read remove ok                                                        
+/rosco055: time: 94797 write read remove ok                                                        
+/rosco056: time: 94991 write read remove ok                                                        
+/rosco057: time: 95197 write read remove ok                                                        
+/rosco058: time: 95391 write read remove ok                                                        
+/rosco059: time: 95585 write read remove ok                                                        
+/rosco060: time: 95779 write read remove ok                                                        
+/rosco061: time: 95985 write read remove ok                                                        
+/rosco062: time: 96180 write read remove ok                                                        
+/rosco063: time: 96374 write read remove ok                                                        
+/rosco064: time: 96568 write read remove ok                                                        
+/rosco065: time: 96774 write read remove ok                                                        
+/rosco066: time: 96968 write read remove ok                                                        
+/rosco067: time: 97163 write read remove ok                                                        
+/rosco068: time: 97357 write read remove ok                                                        
+/rosco069: time: 97563 write read remove ok                                                        
+/rosco070: time: 97757 write read remove ok                                                        
+/rosco071: time: 97951 write read remove ok                                                        
+/rosco072: time: 98146 write read remove ok                                                        
+/rosco073: time: 98351 write read remove ok                                                        
+/rosco074: time: 98546 write read remove ok                                                        
+/rosco075: time: 98740 write read remove ok                                                        
+/rosco076: time: 98934 write read remove ok                                                        
+/rosco077: time: 99140 write read remove ok                                                        
+/rosco078: time: 99334 write read remove ok                                                        
+/rosco079: time: 99529 write read remove ok                                                        
+/rosco080: time: 99723 write read remove ok                                                        
+/rosco081: time: 99929 write read remove ok                                                        
+/rosco082: time: 100123 write read remove ok                                                       
+/rosco083: time: 100318 write read remove ok                                                       
+/rosco084: time: 100512 write read remove ok                                                       
+/rosco085: time: 100718 write read remove ok                                                       
+/rosco086: time: 100912 write read remove ok                                                       
+/rosco087: time: 101106 write read remove ok                                                       
+/rosco088: time: 101300 write read Failed to read a complete dataset '/rosco088'                   
+/rosco089: time: 101476 write read Failed to read a complete dataset '/rosco089'                   
+/rosco090: time: 101497 write read remove ok                                                       
+/rosco091: time: 101691 write read remove ok                                                       
+/rosco092: time: 101886 write read remove ok                                                       
+/rosco093: time: 102092 write read remove ok                                                       
+/rosco094: time: 102287 write read remove ok                                                       
+/rosco095: time: 102481 write read remove ok                                                       
+/rosco096: time: 102676 write read remove ok                                                       
+/rosco097: time: 102881 write read remove ok                                                       
+/rosco098: time: 103076 write read remove ok                                                       
+/rosco099: time: 103271 write read remove ok                                                       
+Test completed                                                                                     
+100 test runs, 95 success                                                                          
+                                                                                                   
+                                                                                                   
+**********************                                                                             
+rosco_m68k - Warm boot                                                                             
+**********************                                                                             
+                                                                                                   
+Searching for boot media...                                                                        
+SDHC card:                                                                                         
+  Partition 1: (not bootable)                                                                      
+No bootable media found                                                                            
+Ready for Kermit receive...                                                                        
+
+

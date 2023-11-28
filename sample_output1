@@ -1,0 +1,135 @@
+rosco_m68k [FW:2.50*]: SD Card Menu - (c) 2020 Xark, MIT License                                   
+                                                                                                   
+Dir: /                                 <Mem 1024K  Uptime 02:56>  Page 1/1                         
+[ 19K] A - test.bin                     [ 31K] C - roscode1.bin                                    
+[ 20K] B - updateflash.bin                                                                         
+                                                                                                   
+A-C to run, SPACE to reload, RETURN for prompt:A                                                   
+Loading "/test.bin"....                                                                            
+Loaded 19908 bytes in 0.58 sec.; CRC-32=0x8BDC8B62; Starting...                                    
+                                                                                                   
+Init SD Card ok, creating test data set                                                            
+Running test for file size 8192 and 100 times                                                      
+crc32 of dataset is b6675307                                                                       
+/rosco000: time: 52365 write read remove ok                                                        
+/rosco001: time: 52525 write read remove ok                                                        
+/rosco002: time: 52672 write read remove ok                                                        
+/rosco003: time: 52818 write read remove ok                                                        
+/rosco004: time: 52976 write read remove ok                                                        
+/rosco005: time: 53123 write read remove ok                                                        
+/rosco006: time: 53269 write read remove ok                                                        
+/rosco007: time: 53416 write read remove ok                                                        
+/rosco008: time: 53574 write read remove ok                                                        
+/rosco009: time: 53720 write read remove ok                                                        
+/rosco010: time: 53867 write read remove ok                                                        
+/rosco011: time: 54013 write read remove ok                                                        
+/rosco012: time: 54171 write read remove ok                                                        
+/rosco013: time: 54318 write read remove ok                                                        
+/rosco014: time: 54465 write read remove ok                                                        
+/rosco015: time: 54611 write read remove ok                                                        
+/rosco016: time: 54769 write read remove ok                                                        
+/rosco017: time: 54916 write read remove ok                                                        
+/rosco018: time: 55062 write read remove ok                                                        
+/rosco019: time: 55209 write read remove ok                                                        
+/rosco020: time: 55367 write read remove ok                                                        
+/rosco021: time: 55513 write read remove ok                                                        
+/rosco022: time: 55660 write read remove ok                                                        
+/rosco023: time: 55806 write read remove ok                                                        
+/rosco024: time: 55964 write read remove ok                                                        
+/rosco025: time: 56111 write read remove ok                                                        
+/rosco026: time: 56257 write read remove ok                                                        
+/rosco027: time: 56404 write read remove ok                                                        
+/rosco028: time: 56562 write read remove ok                                                        
+/rosco029: time: 56708 write read remove ok                                                        
+/rosco030: time: 56855 write read remove ok                                                        
+/rosco031: time: 57001 write read remove ok                                                        
+/rosco032: time: 57159 write read remove ok                                                        
+/rosco033: time: 57306 write read Failed to read a complete dataset '/rosco033'                    
+/rosco034: time: 57415 write read Failed to read a complete dataset '/rosco034'                    
+/rosco035: time: 57427 write Failed to open for write '/rosco035'                                  
+/rosco036: time: 57431 write read remove ok                                                        
+/rosco037: time: 57632 write read remove ok                                                        
+/rosco038: time: 57826 write read remove ok                                                        
+/rosco039: time: 58021 write read remove ok                                                        
+/rosco040: time: 58228 write read remove ok                                                        
+/rosco041: time: 58422 write read remove ok                                                        
+/rosco042: time: 58617 write read remove ok                                                        
+/rosco043: time: 58812 write read remove ok                                                        
+/rosco044: time: 59018 write read remove ok                                                        
+/rosco045: time: 59213 write read remove ok                                                        
+/rosco046: time: 59408 write read remove ok                                                        
+/rosco047: time: 59602 write read remove ok                                                        
+/rosco048: time: 59809 write read remove ok                                                        
+/rosco049: time: 60003 write read remove ok                                                        
+/rosco050: time: 60198 write read remove ok                                                        
+/rosco051: time: 60393 write read remove ok                                                        
+/rosco052: time: 60599 write read remove ok                                                        
+/rosco053: time: 60794 write read remove ok                                                        
+/rosco054: time: 60989 write read remove ok                                                        
+/rosco055: time: 61184 write read remove ok                                                        
+/rosco056: time: 61390 write read remove ok                                                        
+/rosco057: time: 61585 write read remove ok                                                        
+/rosco058: time: 61780 write read remove ok                                                        
+/rosco059: time: 61974 write read remove ok                                                        
+/rosco060: time: 62181 write read remove ok                                                        
+/rosco061: time: 62375 write read remove ok                                                        
+/rosco062: time: 62570 write read remove ok                                                        
+/rosco063: time: 62765 write read remove ok                                                        
+/rosco064: time: 62971 write read remove ok                                                        
+/rosco065: time: 63166 write read remove ok                                                        
+/rosco066: time: 63361 write read remove ok                                                        
+/rosco067: time: 63555 write read remove ok                                                        
+/rosco068: time: 63762 write read remove ok                                                        
+/rosco069: time: 63956 write read remove ok                                                        
+/rosco070: time: 64151 write read remove ok                                                        
+/rosco071: time: 64346 write read remove ok                                                        
+/rosco072: time: 64552 write read remove ok                                                        
+/rosco073: time: 64747 write read remove ok                                                        
+/rosco074: time: 64942 write read remove ok                                                        
+/rosco075: time: 65137 write read remove ok                                                        
+/rosco076: time: 65343 write read remove ok                                                        
+/rosco077: time: 65538 write read remove ok                                                        
+/rosco078: time: 65733 write read remove ok                                                        
+/rosco079: time: 65927 write read remove ok                                                        
+/rosco080: time: 66134 write read remove ok                                                        
+/rosco081: time: 66328 write read remove ok                                                        
+/rosco082: time: 66523 write read remove ok                                                        
+/rosco083: time: 66718 write read remove ok                                                        
+/rosco084: time: 66924 write read remove ok                                                        
+/rosco085: time: 67119 write read remove ok                                                        
+/rosco086: time: 67318 write read remove ok                                                        
+/rosco087: time: 67513 write read remove ok                                                        
+/rosco088: time: 67719 write read remove ok                                                        
+/rosco089: time: 67914 write read remove ok                                                        
+/rosco090: time: 68109 write read remove ok                                                        
+/rosco091: time: 68304 write read remove ok                                                        
+/rosco092: time: 68510 write read remove ok                                                        
+/rosco093: time: 68705 write read remove ok                                                        
+/rosco094: time: 68900 write read remove ok                                                        
+/rosco095: time: 69094 write read remove ok                                                        
+/rosco096: time: 69301 write read remove ok                                                        
+/rosco097: time: 69495 write read remove ok                                                        
+/rosco098: time: 69690 write read remove ok                                                        
+/rosco099: time: 69885 write read remove ok                                                        
+Test completed                                                                                     
+100 test runs, 97 success                                                                          
+                                                                                                   
+                                                                                                   
+**********************                                                                             
+rosco_m68k - Warm boot                                                                             
+**********************                                                                             
+                                                                                                   
+Searching for boot media...                                                                        
+SDHC card:                                                                                         
+  Partition 1: Loading "/ROSCODE1.BIN"........                                                     
+Loaded 32596 bytes in ~1 sec.                                                                      
+                                                                                                   
+                                                                                                   
+rosco_m68k [FW:2.50*]: SD Card Menu - (c) 2020 Xark, MIT License                                   
+                                                                                                   
+Dir: /                                 <Mem 1024K  Uptime 11:43>  Page 1/1                         
+[ 19K] A - test.bin                     [ 31K] C - roscode1.bin                                    
+[ 20K] B - updateflash.bin                                                                         
+                                                                                                   
+A-C to run, SPACE to reload, RETURN for prompt:
+
