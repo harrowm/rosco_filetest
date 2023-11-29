@@ -10,17 +10,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Only include this header if compiling for rosco_m68k
-#ifdef ROSCO
+#define USE_FILELIB_STDIO_COMPAT_NAMES 1
 #include <sdfat.h>
-#define fopen fl_fopen
-#define fclose fl_fclose
-#define fwrite fl_fwrite
-#define fread fl_fread
-#define remove fl_remove
 
 #define _TIMER_100HZ  0x40c
-#endif
 
 #define DATASIZE 8*1024
 #define TIMES_TO_WRITE 100
